@@ -7,5 +7,5 @@ Em 2019 me formei em Técnico em informática pelo IFPR - Campus de União da Vi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscobecker&show_icons=true&theme=dark)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobecker&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobecker&layout=compact&theme=dark)]
 
