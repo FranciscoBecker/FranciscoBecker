@@ -4,8 +4,10 @@ Em 2019 me formei em Técnico em informática pelo IFPR - Campus de União da Vi
 
 <a href = "https://www.linkedin.com/in/francisco-becker-599649197"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/>
 <a href = "mailto: franciscombecker@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=franciscobecker&show_icons=true&theme=dark"/>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobecker&layout=compact&theme=dark"/>
+<div>
+  <a href="https://github.com/FranciscoBecker">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoBecker&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBecker&layout=compact&langs_count=16"/>
+</div>
 
