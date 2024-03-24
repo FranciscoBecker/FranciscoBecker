@@ -1,10 +1,10 @@
 <h1>Oi! Eu sou o Francisco Becker</h1>
 
-Em 2019 me formei em Técnico em informática pelo IFPR - Campus de União da Vitória, atualmente trabalho como desenvolver Back End em Delphi na Softniels e estou cursando Engenharia de software pela UGV.
+Sou formado em Engenharia de Software e atualmente estou trabalhando como desenvolvedor Backend no Parque Tecnológico de Itaipu (PTI-BR).
 
 ##
 
-<h3>Atualmente Trabalho com as seguintes tecnologias:<h3>
+<h3>Tenho experiência com as seguintes tecnologias:<h3>
 <div>
  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
