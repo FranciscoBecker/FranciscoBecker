@@ -1,6 +1,6 @@
 <h1>Oi! Eu sou o Francisco Becker</h1>
 
-Sou formado em Engenharia de Software e atualmente estou trabalhando como desenvolvedor Backend no Parque Tecnológico de Itaipu (PTI-BR).
+Sou formado em Engenharia de Software e atualmente estou trabalhando como desenvolvedor Backend no Itaipu ParqueTec.
 
 ##
 
